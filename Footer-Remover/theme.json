@@ -7,6 +7,7 @@
   "inject": {
     "shared.css": [ "SP" ]
   },
+  "manifest_version": 3,
   "patches": {
     "Switch-Like-Home-Patch": {
       "default": "No",
