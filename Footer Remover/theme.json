@@ -3,7 +3,7 @@
   "version": "v1.0",
   "author": "GrodanBool",
   "target": "Tweak",
-  "description": "Removed the gradient/border on the home page/recent games page",
+  "description": "Removes the footer, also known as the bottom menu on the Steam Deck.",
   "inject": {
     "shared.css": [ "SP" ]
   },
