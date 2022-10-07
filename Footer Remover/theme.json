@@ -1,0 +1,22 @@
+{
+  "name": "Footer Remover",
+  "version": "v1.0",
+  "author": "GrodanBool",
+  "target": "Tweak",
+  "description": "Removed the gradient/border on the home page/recent games page",
+  "inject": {
+    "shared.css": [ "SP" ]
+  },
+  "patches": {
+    "Switch-Like-Home-Patch": {
+      "default": "No",
+      "type": "checkbox",
+      "values": {
+        "No": {},
+        "Yes": {
+          "switch-like-home-patch.css": [ "SP" ]
+        }
+      }
+    }
+  }
+}
