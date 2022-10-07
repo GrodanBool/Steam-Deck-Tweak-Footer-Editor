@@ -2,7 +2,7 @@
   "name": "Footer Remover",
   "version": "v1.0",
   "author": "GrodanBool",
-  "target": "Tweak",
+  "target": "System-Wide",
   "description": "Removes the footer, also known as the bottom menu on the Steam Deck.",
   "inject": {
     "shared.css": [ "SP" ]
