@@ -1,13 +1,25 @@
 {
-  "name": "Footer Remover",
+  "name": "Footer Editor",
   "version": "v1.0",
   "author": "GrodanBool",
-  "target": "Tweak",
-  "description": "Removes the footer, also known as the bottom menu on the Steam Deck.",
+  "target": "System-Wide",
+  "description": "Removed the gradient/border on the home page/recent games page",
   "inject": {
     "shared.css": [ "SP" ]
   },
   "patches": {
+    "Opacity": {
+      "default": "1",
+      "type": "slider",
+      "values": {
+        "0": { "opacity/0.css": [ "SP" ] },
+        "0.2": { "opacity/0.2.css": [ "SP" ] },
+        "0.4": { "opacity/0.4.css": [ "SP" ] },
+        "0.6": { "opacity/0.6.css": [ "SP" ] },
+        "0.8": { "opacity/0.8.css": [ "SP" ] },
+        "1": { "opacity/1.css": [ "SP" ] }
+      }
+    },
     "Switch-Like-Home-Patch": {
       "default": "No",
       "type": "checkbox",

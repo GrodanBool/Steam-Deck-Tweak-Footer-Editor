@@ -1,3 +1,11 @@
+:root {
+    --custom-footer-opacity: 1 !important;
+}
+
 .footer_BasicFooter_3T1iF {
-    display: none !important;
+    background: rgba(0, 0, 0, var(--custom-footer-opacity));
+    position: absolute;
+    bottom: 0;
+    box-sizing: border-box;
+    width: 100%
 }
