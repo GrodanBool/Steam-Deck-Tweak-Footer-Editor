@@ -3,7 +3,7 @@
   "version": "v1.0",
   "author": "GrodanBool",
   "target": "System-Wide",
-  "description": "Removes the footer, also known as the bottom menu on the Steam Deck.",
+  "description": "Allows the user to edit the footer, also known as the bottom menu on the Steam Deck.",
   "inject": {
     "shared.css": [ "SP" ]
   },
@@ -28,6 +28,16 @@
         "No": {},
         "Yes": {
           "switch-like-home-patch.css": [ "SP" ]
+        }
+      }
+    },
+    "Remove Footer": {
+      "default": "No",
+      "type": "checkbox",
+      "values": {
+        "No": {},
+        "Yes": {
+          "remove.css": [ "SP" ]
         }
       }
     }
