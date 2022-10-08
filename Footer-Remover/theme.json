@@ -27,10 +27,20 @@
       "values": {
         "None": {},
         "Clean Gameview": {
-          "clean-gameview-patch.css": [ "SP", "MainMenu", "QuickAccess" ]
+          "clean-gameview-patch.css": [ "SP" ]
         },
         "Clean Gameview Cloud": {
-          "clean-gameview-cloud-patch.css": [ "SP", "MainMenu", "QuickAccess" ]
+          "clean-gameview-cloud-patch.css": [ "SP" ]
+        }
+      }
+    },
+    "Homescreen Only": {
+      "default": "No",
+      "type": "checkbox",
+      "values": {
+        "No": {},
+        "Yes": {
+          "homepageonly.css": [ "SP" ]
         }
       }
     },
