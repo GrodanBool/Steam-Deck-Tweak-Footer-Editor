@@ -1,7 +1,40 @@
 .footer_BasicFooter_3T1iF {
     display: none;
+    position: relative !important;
 }
 
 .basicgamecarousel_BasicGameCarouselItemMediaContainer_1HIFN {
     bottom: 0;
+}
+
+.smartscrollcontainer_ScrollToTopButton_1bCHN.smartscrollcontainer_Visible_2ZDSm {
+    padding-bottom: 0px
+}
+
+.gamepadlibrary_GamepadLibrary_ZBBhe {
+    padding-bottom: 0px
+}
+
+.mediapage_MediaPage_gG1JN {
+    padding-bottom: 0px
+}
+
+.downloads_DownloadsPage_1bq4x {
+    padding-bottom: 0px
+}
+
+.gamepadpage_GamepadPagedSettingsPage_3eUwJ {
+    padding-bottom: 0px
+}
+
+.appdetails_Container_2iE-7 {
+    padding-bottom: 0px
+}
+
+.FullModalOverlay {
+    bottom: 0px
+}
+
+.friendslist_FriendsChatsContainer_2Ze6b {
+    bottom: 0px
 }

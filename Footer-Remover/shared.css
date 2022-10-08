@@ -1,5 +1,6 @@
 :root {
-    --custom-footer-opacity: 1 !important;
+    --custom-margin-top: 40px;
+    --custom-top: -40px;
 }
 
 .footer_BasicFooter_3T1iF {
@@ -8,4 +9,45 @@
     bottom: 0;
     box-sizing: border-box;
     width: 100%
+}
+
+.gamepadtabbedpage_GamepadTabbedPage_3IBLc.Panel.Focusable.gpfocuswithin {
+    margin-top: 40px;
+    top: -40px;
+}
+
+.gamepadlibrary_GamepadLibrary_ZBBhe {
+    padding-bottom: 40px
+}
+
+.mediapage_MediaPage_gG1JN {
+    padding-bottom: 40px
+}
+
+.downloads_DownloadsPage_1bq4x {
+    padding-bottom: 40px
+}
+
+.gamepadpage_GamepadPagedSettingsPage_3eUwJ {
+    padding-bottom: 40px
+}
+
+.appdetails_Container_2iE-7 {
+    padding-bottom: 40px
+}
+
+.protondb-decky-indicator-small {
+    top: 100px !important;
+}
+
+.FullModalOverlay {
+    bottom: 40px
+}
+
+.friendslist_FriendsChatsContainer_2Ze6b {
+    bottom: 40px
+}
+
+.smartscrollcontainer_ScrollToTopButton_1bCHN.smartscrollcontainer_Visible_2ZDSm {
+    padding-bottom: 40px
 }
