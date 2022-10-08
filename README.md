@@ -1,5 +1,5 @@
-# Footer Remover
- A tweak to remove the Steam Decks footer.
+# Footer Editor
+Allows the user to edit the Steam Decks footer.
 
 ## Installation
 1. [Install Decky](https://github.com/SteamDeckHomebrew/decky-loader#installation).
