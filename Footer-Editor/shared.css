@@ -23,3 +23,7 @@
 .FullModalOverlay {
     bottom: 40px
 }
+
+.backgroundglass_Visible_fSM7w ~ #Footer {
+    position: relative;
+}
