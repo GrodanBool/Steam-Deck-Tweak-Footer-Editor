@@ -1,6 +1,7 @@
 :root {
     --custom-margin-top: 40px;
     --custom-top: -40px;
+    --CGV-play-anim-height: 63vw !important;
 }
 
 .footer_BasicFooter_3T1iF {
@@ -25,4 +26,8 @@
 
 .backgroundglass_Visible_fSM7w ~ #Footer {
     position: relative;
+}
+
+.applaunchingdetails_Container_1NEW9 {
+    top: 30px;
 }
