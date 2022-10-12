@@ -11,9 +11,12 @@
     width: 100%
 }
 
-.gamepadtabbedpage_GamepadTabbedPage_3IBLc.Panel.Focusable.gpfocuswithin {
-    margin-top: 40px;
-    top: -40px;
+.basicappdetailssectionstyler_AppDetailsContainer_2-ns_ {
+    height: calc(100vh - 40px);
+}
+
+.gamepadhome_TabbedContent_cE1Sa {
+    min-height: calc(100vh - 40px);
 }
 
 .protondb-decky-indicator-small {

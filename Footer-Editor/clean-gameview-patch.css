@@ -1,3 +1,15 @@
+:root {
+    --CGV-play-anim-height: 62vw !important;
+}
+
 .BasicUI .sharedappdetailsheader_TopCapsule_2meE3 {
     height: 54vw
 }
+
+.basicappdetailssectionstyler_AppDetailsContainer_2-ns_ {
+    margin-top: 40px;
+}
+
+/*.basicappdetailssectionstyler_AppDetailsContainer_2-ns_.Panel.Focusable.gpfocuswithin {
+    margin-top: 0;
+}*/
