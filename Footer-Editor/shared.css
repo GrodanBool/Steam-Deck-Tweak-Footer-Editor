@@ -19,10 +19,6 @@
     min-height: calc(100vh - 40px);
 }
 
-.protondb-decky-indicator-small {
-    top: 100px !important;
-}
-
 .FullModalOverlay {
     bottom: 40px
 }
