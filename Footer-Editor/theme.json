@@ -26,10 +26,16 @@
       "type": "dropdown",
       "values": {
         "None": {},
-        "Clean Gameview": {
+        "No Cloud": {
+          "clean-gameview-normal-patch.css": [ "SP" ]
+        },
+        "Cloud": {
+          "clean-gameview-cloud-normal-patch.css": [ "SP" ]
+        },
+        "No Footer": {
           "clean-gameview-patch.css": [ "SP" ]
         },
-        "Clean Gameview Cloud": {
+        "No Footer Cloud": {
           "clean-gameview-cloud-patch.css": [ "SP" ]
         }
       }
