@@ -1,6 +1,10 @@
-.BasicUI .sharedappdetailsheader_TopCapsule_2meE3 {
-    height: 50vw !important;
+:root {
+    --CGV-top-panel-height: 50vw !important;
 }
+
+/*.BasicUI .sharedappdetailsheader_TopCapsule_2meE3 {
+    height: 50vw !important;
+}*/
 
 .basicappdetailssectionstyler_AppDetailsContainer_2-ns_ {
     margin-top: 40px;
