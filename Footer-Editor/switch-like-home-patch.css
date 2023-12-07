@@ -1,7 +1,13 @@
-.basicgamecarousel_BasicGameCarousel_3MdH5 {
-    padding-top: 260px !important;
+.gamepadhomerecentgames_RecentGamesInnerContainer_282X0 {
+    height: 100vh !important;
 }
 
-.basicgamecarousel_BasicGameCarouselItemMediaContainer_1HIFN {
-    bottom: 40px;
+.gamepadhome_RecentSection_39tNv {
+    height: 100vh !important;
+    padding-bottom: 0px !important
+}
+
+.gamepadhomerecentgames_RecentGamesContainer_2_cRk {
+    height: 100vh !important;
+    padding: 0px;
 }
