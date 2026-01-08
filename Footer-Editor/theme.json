@@ -1,7 +1,7 @@
 {
   "name": "Footer Editor",
-  "version": "v1.4",
-  "author": "GrodanBool",
+  "version": "v1.5",
+  "author": "GrodanBool, Luna-Terra-CG",
   "target": "System-Wide",
   "description": "Allows the user to edit the footer, also known as the bottom menu on the Steam Deck.",
   "inject": {
